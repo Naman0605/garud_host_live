@@ -1,0 +1,306 @@
+    body {
+        margin: 0;
+        font-family: 'Mulish', sans-serif;
+    }
+    /* navigation-1 */
+    
+    nav {
+        background-color: whites;
+        height: 10.5vh;
+        border-bottom: 1px solid #D9D9D9;
+        margin-bottom: 5px;
+    }
+    
+    nav img {
+        height: 12vw;
+        margin-top: -3vw;
+        margin-left: -1.5vw;
+    }
+    
+    .page-title {
+        font-size: 30px;
+        font-weight: 1000;
+        color: #ffb218;
+        margin-top: -17vh;
+        margin-left: 9vw;
+        font-family: 'Mulish', sans-serif;
+    }
+    
+    nav table {
+        background-color: #D9D9D9;
+        font-family: 'Mulish', sans-serif;
+        font-size: 15px;
+        border-radius: 5px;
+        margin-top: -75px;
+        margin-left: 24vw;
+        width: 449px;
+    }
+    
+    nav input {
+        background-color: #D9D9D9;
+        border: 0px;
+        padding: 2px;
+        padding-left: 50px;
+    }
+    
+    .nav-dropdown p {
+        font-size: 13px;
+        margin-left: 5px;
+        font-family: 'Mulish', sans-serif;
+    }
+    
+    .nav-dropdown-content {
+        position: absolute;
+        background-color: #D9D9D9;
+        width: 100px;
+        height: 120px;
+        margin-top: 2px;
+        border-radius: 5px;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        z-index: 1;
+        display: none;
+    }
+    
+    .nav-dropdown-content a {
+        display: block;
+        text-decoration: none;
+        color: black;
+        font-size: 15px;
+        margin-left: px;
+        font-weight: 100;
+        border-radius: 5px;
+        margin-top: 4px;
+        padding-left: 8px;
+    }
+    
+    .nav-dropdown-content a:hover {
+        font-weight: 700;
+        background-color: white;
+    }
+    
+    nav table td:nth-child(1):hover .nav-dropdown-content {
+        display: block;
+    }
+    
+    .nav-slash {
+        font-size: 20px;
+        font-weight: lighter;
+        margin-top: -4px;
+    }
+    
+    .search-icon {
+        font-size: 14px;
+        margin-left: 5px;
+        margin-top: 1px;
+        color: gray;
+        position: absolute;
+    }
+    
+    .delivery-time {
+        margin-top: -45px;
+        margin-left: 57vw;
+        font-size: 19px;
+        font-family: 'Mulish', sans-serif;
+    }
+    
+    .delivery-address {
+        margin-top: -20px;
+        margin-left: 57vw;
+        font-size: 13px;
+        font-family: 'Mulish', sans-serif;
+    }
+    
+    .user img {
+        margin-left: 75vw;
+        height: 25px;
+        margin-top: -45px;
+        position: absolute;
+    }
+    
+    #login-page {
+        position: absolute;
+        width: 0;
+        height: 0;
+        ;
+    }
+    
+    .like {
+        margin-left: 80vw;
+        font-size: 24px;
+        margin-top: -45px;
+        position: absolute;
+    }
+    
+    .cart {
+        margin-left: 85vw;
+        font-size: 24px;
+        margin-top: -43px;
+        position: absolute;
+    }
+    
+    .my-cart {
+        font-family: 'Mulish', sans-serif;
+        font-size: 15px;
+        margin-left: 93vw;
+        margin-top: -52px;
+        font-weight: bolder;
+    }
+    
+    .my-cart:hover {
+        color: #ffb218;
+    }
+    
+    .bill {
+        font-family: 'Mulish', sans-serif;
+        font-size: 15px;
+        margin-left: 93.5vw;
+        margin-top: -19px;
+        font-weight: bolder;
+    }
+    
+    .bill:hover {
+        color: #ffb218;
+    }
+    
+    .like-count {
+        width: 15px;
+        background-color: #ffb218;
+        margin-left: 81vw;
+        border-radius: 5px;
+        margin-top: -50px;
+        position: absolute;
+    }
+    
+    .item-count {
+        width: 15px;
+        background-color: #ffb218;
+        margin-left: 86vw;
+        border-radius: 5px;
+        margin-top: -50px;
+        position: absolute;
+    }
+    /* navigation-2 */
+    
+    .nav2 {
+        background-color: whites;
+        height: 8.8vh;
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .shop-by-category {
+        background-color: #ffb218;
+        width: 250px;
+        height: 50px;
+        border-radius: 4px;
+        display: flex;
+        margin-left: 20px;
+        margin-top: 5px;
+    }
+    
+    .shop-by-category p {
+        font-family: 'Mulish', sans-serif;
+        margin-left: 25px;
+        position: relative;
+    }
+    
+    .shop-by-category i {
+        font-size: 20px;
+        margin-top: 15px;
+        margin-left: 20px;
+    }
+    
+    .nav2-bars p:hover {
+        color: #ffb218;
+    }
+    
+    .nav2-bars {
+        display: flex;
+        margin-left: 20px;
+    }
+    
+    .nav2-bars p {
+        margin-left: 65px;
+        font-size: 17px;
+        font-weight: 500;
+        font-family: 'Mulish', sans-serif;
+        margin-top: 18px;
+    }
+    
+    .Home {
+        color: #ffb218;
+    }
+    
+    #price-tag {
+        margin-top: 23px;
+        margin-left: 21vw;
+        position: absolute;
+    }
+    
+    .recently-viewed {
+        font-size: 17px;
+        font-weight: 500;
+        font-family: 'Mulish', sans-serif;
+        margin-top: 18px;
+        margin-left: 120px;
+    }
+    
+    .recently-viewed:hover {
+        color: #ffb218;
+    }
+    
+    #recent-tag {
+        margin-top: 23px;
+        margin-left: 79vw;
+        position: absolute;
+    }
+    
+    #page-heading {
+        font-size: 70px;
+        text-align: center;
+    }
+    
+    .blog-box {
+        /* border: 1px solid black; */
+        width: 900px;
+        height: 230px;
+        margin-left: 325px;
+        margin-top: 50px;
+    }
+    
+    .blog-box:hover {
+        background-color: #e2e2e2;
+    }
+    
+    .blog-box img {
+        width: 300px;
+        height: 180px;
+        margin-left: 30px;
+        margin-top: 25px;
+    }
+    
+    .blog-box-heading {
+        font-size: 27px;
+        margin-top: -170px;
+        margin-left: 380px;
+        font-weight: 500;
+    }
+    
+    .blog-date {
+        margin-left: 395px;
+        margin-top: -25px;
+        font-size: 15px;
+    }
+    
+    .blog-descri {
+        margin-left: 380px;
+        font-size: 20px;
+        color: rgb(127, 133, 139);
+    }
+    
+    .blog-line {
+        border-bottom: 1px solid #D9D9D9;
+        width: 1000px;
+        margin-top: 50px;
+        margin-left: 280px;
+    }

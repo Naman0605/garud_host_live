@@ -1,0 +1,66 @@
+{
+    "garud-logo": "garuda-eagle-stylish-logo-concept-600w-2150406009-transformed-removebg-preview.png",
+    "site-name": "Garud",
+    "slash": "|",
+    "icon": "<i class=\" fa - solid fa - magnifying - glass \" > < /i></span > ",
+    "delivery-time": "Delivery in 10 minutes",
+    "delivery-address": "BML Munjaal University",
+    "user-imgs": "user-(2).png",
+    "my-cart": "Your Cart",
+    "bill": "$ 0.00",
+    "slider-img-1": "slider-1.png",
+    "slider-img-2": "side-slider.png",
+    "Text": [
+        "Special-prices",
+        "Fresh",
+        "Frozen",
+        "Shop",
+        "Home",
+        "Blog",
+        "Pages",
+        "Recently viewed"
+    ],
+    "browseimg1": "homepage-new-cat-1.webp",
+    "browseimg2": "homepage-new-cat-2.webp",
+    "browseimg3": "homepage-new-cat-3.webp",
+    "browseimg4": "homepage-new-cat-4.webp",
+    "browseimg5": "homepage-new-cat-5.webp",
+    "browseimg6": "homepage-new-cat-6.webp",
+    "browseimg7": "homepage-new-cat-7.webp",
+
+    "browseboxs": [{
+        "browseimg": "homepage-new-cat-1.webp",
+        "browsename": " Fruits & vegetables"
+    }, {
+        "browseimg": "homepage-new-cat-2.webp",
+        "browsename": " Fruits & vegetables"
+    }, {
+        "browseimg": "homepage-new-cat-3.webp",
+        "browsename": " Fruits & vegetables"
+    }, {
+        "browseimg": "homepage-new-cat-4.webp",
+        "browsename": " Fruits & vegetables"
+    }, {
+        "browseimg": "homepage-new-cat-5.webp",
+        "browsename": " Fruits & vegetables"
+    }, {
+        "browseimg": "homepage-new-cat-6.webp",
+        "browsename": " Fruits & vegetables"
+    }, {
+        "browseimg": "homepage-new-cat-7.webp",
+        "browsename": " Fruits & vegetables"
+    }],
+
+    "featured1": "homepage-new-brand-img-1.webp",
+    "featured2": "homepage-new-brand-img-2.webp",
+    "featured3": "homepage-new-brand-img-3.webp",
+    "featured4": "homepage-new-brand-img-4.webp",
+
+    "bestsellerimg1": "01_8a.webp",
+    "bestsellerimg2": "01_8a.webp",
+    "bestsellerimg3": "01_8a.webp",
+    "bestsellerimg4": "01_8a.webp",
+    "bestsellerimg5": "01_8a.webp",
+    "bestsellerimg6": "01_8a.webp"
+
+}
